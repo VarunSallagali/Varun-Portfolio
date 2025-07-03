@@ -50,7 +50,7 @@ portfolio/
 │   ├── project2.jpg
 │   ├── project3.jpg
 │   ├── project4.jpg
-│   └── VarunJ_Resume.pdf   # Resume file (placeholder)
+│   └── Sallagali Varun_Resume.pdf   # Resume file (placeholder)
 ```
 
 ## 🚀 Getting Started
@@ -117,7 +117,7 @@ Edit `script.js` to adjust:
 Replace placeholder images in the `assets/` folder:
 - `varun-profile.jpg` - Your profile picture
 - `project1.jpg` through `project4.jpg` - Project screenshots
-- `VarunJ_Resume.pdf` - Your actual resume
+- `Sallagali Varun_Resume.pdf` - Your actual resume
 
 ## 📱 Responsive Breakpoints
 
@@ -145,8 +145,8 @@ Feel free to fork this project and customize it for your own portfolio. If you f
 
 For questions or support regarding this portfolio template:
 - **Email**: sallagalivarun@gmail.com
-- **LinkedIn**: [Varun J](https://linkedin.com/in/varunsallagali)
-- **GitHub**: [varunj](https://github.com/varunsallagali)
+- **LinkedIn**: [Sallagali Varun](https://linkedin.com/in/varunsallagali)
+- **GitHub**: [Sallagali Varun](https://github.com/varunsallagali)
 
 ## 🙏 Acknowledgments
 
