@@ -1,4 +1,4 @@
-# Varun J - Personal Portfolio Website
+# Varun Sallagali- Personal Portfolio Website
 
 A modern, responsive personal portfolio website for Varun J, a computer science student and software developer. Built with HTML5, CSS3, and JavaScript, featuring a sleek dark theme with neon accents and smooth animations.
 
@@ -144,9 +144,9 @@ Feel free to fork this project and customize it for your own portfolio. If you f
 ## 📞 Contact
 
 For questions or support regarding this portfolio template:
-- **Email**: varun.j@example.me
-- **LinkedIn**: [Varun J](https://linkedin.com/in/varunj)
-- **GitHub**: [varunj](https://github.com/varunj)
+- **Email**: sallagalivarun@gmail.com
+- **LinkedIn**: [Varun J](https://linkedin.com/in/varunsallagali)
+- **GitHub**: [varunj](https://github.com/varunsallagali)
 
 ## 🙏 Acknowledgments
 
