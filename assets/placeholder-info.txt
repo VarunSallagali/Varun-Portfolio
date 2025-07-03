@@ -1,0 +1,27 @@
+PLACEHOLDER ASSETS - REPLACE WITH YOUR OWN CONTENT
+
+This folder should contain the following files:
+
+1. varun-profile.jpg
+   - Your professional profile picture
+   - Recommended size: 300x300 pixels or larger
+   - Format: JPG or PNG
+   - Should be a high-quality, professional headshot
+
+2. project1.jpg, project2.jpg, project3.jpg, project4.jpg
+   - Screenshots or mockups of your projects
+   - Recommended size: 400x300 pixels or larger
+   - Format: JPG or PNG
+   - Should showcase the key features of each project
+
+3. VarunJ_Resume.pdf
+   - Your actual resume in PDF format
+   - Should be up-to-date with current experience and skills
+   - Professional formatting recommended
+
+WHERE TO FIND PLACEHOLDER IMAGES:
+- For profile pictures: Use a professional headshot or create one using services like LinkedIn
+- For project images: Take screenshots of your actual projects or create mockups using tools like Figma
+- For resume: Export your resume as PDF from your preferred document editor
+
+Note: The current HTML references these files, so the website will show broken images until you add your own content. 
